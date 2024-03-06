@@ -1,0 +1,1 @@
+Produceri povlace veliku kolicinu podataka sa apija: https://www.alphavantage.co koje consumeri pomocu Kafke obrade i proizvode .csv fajlove. Dobijene fajlove sam obradjivao u jupiter-u (Data streaming, razne analize podataka, poredjenja, linearne regresije, predikcije)
